@@ -2,3 +2,9 @@
 /* Your CSS Code here. */
 table,th,td{border:2px solid black;border-collapse:collapse}
 th,th{width:100px}
+.align-left{text-align:left}
+.align-right{text-align:right}
+#row1{background-color:rgb(178,87,81)}
+#row2{background-color:rgb(208,153,150)}
+#row3{background-color:rgb(238,221,219)}
+#row4{background-color:rgb(217,217,217)}
